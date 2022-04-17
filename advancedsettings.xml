@@ -1,0 +1,18 @@
+<!-- Created using Easy Advanced Settings addon -->
+<advancedsettings>
+    <!-- <loglevel>1</loglevel>  Change this to "1" to hide the on-screen debug log text -->
+	<video>
+        <playcountminimumpercent>85</playcountminimumpercent>
+    </video>
+	<cache>
+		<buffermode>2</buffermode>
+		<memorysize>495976448</memorysize> <!-- This is for a 2 gig box -->
+		<readfactor>5</readfactor>
+		<curlclienttimeout>10</curlclienttimeout>
+		<curllowspeedtime>10</curllowspeedtime>
+	</cache>
+    <videolibrary>
+        <importresumepoint>true</importresumepoint>
+        <importwatchedstate>true</importwatchedstate>
+    </videolibrary>
+</advancedsettings>
